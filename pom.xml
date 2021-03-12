@@ -1114,7 +1114,7 @@
             <dependency>
                 <groupId>net.sf.oval</groupId>
                 <artifactId>oval</artifactId>
-                <version>1.90</version>
+                <version>3.1.2</version>
             </dependency>
 
             <dependency>
